@@ -1,0 +1,50 @@
+body {
+    background-color: #1f1f2e;
+
+}
+h2 {
+    color: #996666;
+    font-size: 45px;
+}
+h4 {
+    color: #996666;
+    font-size: 45px;
+}
+h5 {
+    color: #996666;
+    font-size: 45px;
+}
+
+h1{
+    color: #996666;
+    font-size: 60px;
+}
+body {
+    float: left;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+#currentWord {
+    font-size: 85px;
+    color: #996666;
+}
+#guessedLetters {
+    font-size: 75px;
+    color: #996666;
+}
+#remainingGuesses {
+    font-size: 65px;
+    color: #996666;
+}
+#border {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: #996666;
+    margin-left: -40%;
+    margin-right: -40%;
+}
+
+#pressKeyTryAgain {
+    margin-left: -45%;
+    font-size: 40px;
+}
