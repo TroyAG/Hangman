@@ -12,6 +12,13 @@ var selectableWords =           // Word list
         "github",
         "logic",
         "function",
+        "Google",
+        "Jellybean",
+        "Juggernaut",
+        "Script",
+        "Method",
+        "Scope",
+        "Object"
     ];
 
 var maxTries = 10;            
